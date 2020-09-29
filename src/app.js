@@ -1,5 +1,5 @@
 import Vue from 'vue';
-
+import store from './store';
 import navCustomBar from 'taro-vue-nav';
 Vue.component('nav-custom-bar', navCustomBar);
 
